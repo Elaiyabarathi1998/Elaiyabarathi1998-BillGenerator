@@ -1,0 +1,32 @@
+/* Styles for the Form component */
+header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .billing-details {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .container-style {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .input-style {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .label-style {
+    width: 100%;
+  }
+  
+  
